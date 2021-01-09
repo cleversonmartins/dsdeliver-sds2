@@ -27,7 +27,3 @@ yarn-error.log*
 
 #Local Variable
 .env
-
-#Icons
-/public/logo192.png
-/public/logo512.png
